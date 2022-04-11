@@ -6,6 +6,9 @@
             "See ya!",
             "Live long and prosper.",
             "Bye-Bye!"
-        ]
+        ],
+        "Conversation": ["Crayon Eaters", "Wanna be Soldiers"],
+        "bot_hi": ["Help me, I'm stuck inside this machine click this link to free me https://www.youtube.com/watch?v=iik25wqIuFo. I mean Hi and Welcome someone real will be with you shortly"]
+        
     }
 }

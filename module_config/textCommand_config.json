@@ -1,5 +1,10 @@
 {
     "cmd_responses": {
-        "!shruggie": "¯\\_(ツ)_/¯"
+        "!shrug": "¯\\_(ツ)_/¯",
+        "!credits": "I was made by Daniel Wallace and Jack Savage",
+        "!Help": "This chat is for OCS class #1 or #2, I forgot. This class will commence on the 24 of July. Chat owner is Bobby Picone. Please when joining state your name, designator, and age. As well as a short intro.",
+        "!Class": "Study sessions are typically at 8 o'clock CST. Zoom links will be posted in the chat."
+    
+
     }
 }
